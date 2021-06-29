@@ -14,9 +14,7 @@ This repository is based on MATLAB, so you should have MATLAB installed before r
 
 ## Code organization
 
-    .
-    ├── images                  # Images for training and testing
-    ├── result                  # Folder contains my analysis and reconstructed images
+   
     ├── src                     # MATLAB scripts
     │   ├── main.m              # Main MATLAB file
     │   ├── meanSquareError.m   # Calculate mean square error between original and reconstructed image
